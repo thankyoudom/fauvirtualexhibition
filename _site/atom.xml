@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>FAUniversity Galleries</title>
+ <link href="/atom.xml" rel="self"/>
+ <link href="https://fau.thankyoudom.com/"/>
+ <updated>2024-06-20T14:43:20-04:00</updated>
+ <id>https://fau.thankyoudom.com</id>
+ <author>
+   <name>Dominique</name>
+   <email>thankyoudom@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>FAU</title>
+   <link href="https://fau.thankyoudom.com/2020/04/29/FAU/"/>
+   <updated>2020-04-29T00:00:00-04:00</updated>
+   <id>https://fau.thankyoudom.com/2020/04/29/FAU</id>
+   <content type="html">&lt;article&gt;
+    &lt;section classname=&quot;container centered&quot;&gt;
+        &lt;p&gt; Welcome to the &lt;i&gt;2020 Juried Student Exhibition&lt;/i&gt;, presented by the University Galleries and the Department of Visual Arts and Art History at Florida Atlantic   University each spring for over 25 years. Due to the unfortunate circumstances and unprecedented events around COVID-19, we are proud to recognize the work of this   year`s selected students through remote means. Congratulations to all who entered and those chosen by this year`s Juror, Sibel Kocabasi, South Florida artist and FAU     Masters of Fine Arts alumna whose work was recently featured in &lt;i&gt;Hand and I: Mending the World One Stitch at a Time exhibition&lt;/i&gt; (Schmidt Center Gallery, November 8,   2019 – February 1, 2020).&lt;/p&gt; 
+        &lt;br /&gt;
+        &lt;small&gt;&lt;p&gt;&lt;i&gt;(Below, you will find this year&apos;s selected artists` works as well as a Virtual Exhibition, which will take you on a virtual tour through the Ritter Art   Gallery.)&lt;/i&gt;&lt;/p&gt;&lt;/small&gt;
+        &lt;br /&gt;
+      &lt;/section&gt;
+&lt;/article&gt;
+&lt;article&gt;
+    &lt;small&gt;&lt;p classname=&quot;centered&quot;&gt;&lt;b&gt;Cover:&lt;/b&gt; Stephen Luttinger &lt;i&gt; Shared Space (Chef) &lt;/i&gt; 2020 Photography 20” x 30”&lt;/p&gt;&lt;/small&gt;
+    &lt;iframe src=&quot;/assets/JSE2020.pdf&quot; style=&quot;width:672px; height:1050px;&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;    
+&lt;/article&gt;
+
+&lt;article&gt;
+    &lt;section classname=&quot;container centered&quot;&gt;
+        &lt;b&gt;For optimal experience, please use Firefox or Google Chrome web browser to view the following 3D interactive virtual exhibition.&lt;/b&gt;
+    &lt;/section&gt;
+&lt;/article&gt;
+
+&lt;div classname=&quot;content&quot;&gt;  
+    &lt;article&gt;
+      &lt;section classname=&quot;container centered&quot;&gt;
+        &lt;iframe width=&quot;672&quot; height=&quot;567&quot; src=&quot;https://www.artsteps.com/embed/5e73b9fbfef0d01827b018dd/1008/567&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/section&gt;
+    &lt;/article&gt;
+&lt;/div&gt;
+
+</content>
+ </entry>
+ 
+
+</feed>
