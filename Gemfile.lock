@@ -22,6 +22,7 @@ GEM
     faraday-excon (1.1.0)
     faraday-net_http (1.0.1)
     faraday-net_http_persistent (1.1.0)
+    faraday-retry (1.0.3)
     ffi (1.15.1)
     forwardable-extended (2.6.0)
     http_parser.rb (0.6.0)
@@ -89,6 +90,7 @@ PLATFORMS
   x86_64-darwin-22
 
 DEPENDENCIES
+  faraday-retry
   jekyll
   jekyll-gist
   jekyll-paginate
